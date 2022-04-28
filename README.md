@@ -2,7 +2,7 @@
 
 A new Flutter project. UI design by https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode
 
-<img src="Untitled.png" width=500 height=250>
+<img src="Untitled.png" width=800 height=400>
 
 ## Getting Started
 
