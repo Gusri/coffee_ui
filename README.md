@@ -1,6 +1,6 @@
 # coffee_ui
 
-A new Flutter project.
+A new Flutter project. UI design by https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode
 
 ## Getting Started
 
